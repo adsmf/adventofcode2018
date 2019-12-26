@@ -1,1 +1,3 @@
-# adventofcode2018
+# Archived
+
+Moved to https://github.com/adsmf/adventofcode/
